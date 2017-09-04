@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 46
+G__*.h
+G__*.cxx
+*_C.d
+svn-commit.tmp
+*.o
+*.so
+
+END
